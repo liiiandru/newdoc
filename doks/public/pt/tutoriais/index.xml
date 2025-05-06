@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutoriais on Multiplus Card [DEV]</title>
-    <link>http://localhost:1313/pt/tutoriais/</link>
+    <link>https://liiiandru.github.io/newdoc/pt/pt/tutoriais/</link>
     <description>Recent content in Tutoriais on Multiplus Card [DEV]</description>
     <generator>Hugo</generator>
     <language>pt</language>
     <copyright>Copyright (c) 2025 Multiplus Card</copyright>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/pt/tutoriais/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://liiiandru.github.io/newdoc/pt/pt/tutoriais/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

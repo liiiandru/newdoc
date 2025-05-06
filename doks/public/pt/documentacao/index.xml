@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Documentação on Multiplus Card [DEV]</title>
-    <link>http://localhost:1313/pt/documentacao/</link>
+    <link>https://liiiandru.github.io/newdoc/pt/pt/documentacao/</link>
     <description>Recent content in Documentação on Multiplus Card [DEV]</description>
     <generator>Hugo</generator>
     <language>pt</language>
     <copyright>Copyright (c) 2025 Multiplus Card</copyright>
     <lastBuildDate>Thu, 07 Sep 2023 16:33:54 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt/documentacao/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://liiiandru.github.io/newdoc/pt/pt/documentacao/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comece Agora!</title>
-      <link>http://localhost:1313/pt/documentacao/apresentacao/</link>
+      <link>https://liiiandru.github.io/newdoc/pt/pt/documentacao/apresentacao/</link>
       <pubDate>Thu, 07 Sep 2023 16:33:54 +0200</pubDate>
-      <guid>http://localhost:1313/pt/documentacao/apresentacao/</guid>
+      <guid>https://liiiandru.github.io/newdoc/pt/pt/documentacao/apresentacao/</guid>
       <description>&lt;p&gt;Navegue pelo menu lateral para acessar a documentação específica de cada integração. Caso precise de suporte ou tenha dúvidas, entre em contato com nossa equipe técnica.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multiplus Card [DEV]</title>
-    <link>http://localhost:1313/pt/pt/</link>
+    <link>https://liiiandru.github.io/newdoc/pt/pt/pt/</link>
     <description>Recent content on Multiplus Card [DEV]</description>
     <generator>Hugo</generator>
     <language>pt</language>
     <copyright>Copyright (c) 2025 Multiplus Card</copyright>
     <lastBuildDate>Thu, 07 Sep 2023 17:19:07 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt/pt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://liiiandru.github.io/newdoc/pt/pt/pt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Política de Privacidade</title>
-      <link>http://localhost:1313/pt/pt/privacy/</link>
+      <link>https://liiiandru.github.io/newdoc/pt/pt/pt/privacy/</link>
       <pubDate>Thu, 07 Sep 2023 17:19:07 +0200</pubDate>
-      <guid>http://localhost:1313/pt/pt/privacy/</guid>
+      <guid>https://liiiandru.github.io/newdoc/pt/pt/pt/privacy/</guid>
       <description></description>
     </item>
   </channel>
