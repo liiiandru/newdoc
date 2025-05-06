@@ -12,7 +12,7 @@
 </script>
 
 
-<link rel="stylesheet" href="/newdoc/pt/main.eb6e0df3c074b4558704fa0641cbc800dd703702e8273294058efb0dd14407af9181832bb163a0af748351b65b9cbaa3e71afb320f8e20f004efe85aa0b34a99.css" integrity="sha512-624N88B0tFWHBPoGQcvIAN1wNwLoJzKUBY77DdFEB6+RgYMrsWOgr3SDUbZbnLqj5xr7Mg+OIPAE7+haoLNKmQ==" crossorigin="anonymous">
+<link rel="stylesheet" href="/newdoc/pt/main.daab7beafd7653020fd248be61d4e701e303a37d7c88065e9141e4cfc223517433bf8c03d658c28458d7d18e41f640c7d5d6f575dbe275339a3afc26285b901e.css" integrity="sha512-2qt76v12UwIP0ki+YdTnAeMDo318iAZekUHkz8IjUXQzv4wD1ljChFjX0Y5B9kDH1db1ddvidTOaOvwmKFuQHg==" crossorigin="anonymous">
 
 <noscript><style>img.lazyload { display: none; }</style></noscript><base href="https://liiiandru.github.io/newdoc/pt/pt/pt/documentacao/tef/webservice/">
 
@@ -118,13 +118,6 @@
 
     
     
-    <button type="button" id="searchToggleMobile" class="btn btn-link nav-link mx-2 d-lg-none" aria-label="Search website">
-      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-        <circle cx="10" cy="10" r="7"></circle>
-        <line x1="21" y1="21" x2="15" y2="15"></line>
-      </svg>
-    </button>
     
     
     <button class="btn btn-link nav-link mx-2 order-3 d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavMain" aria-controls="offcanvasNavMain" aria-label="Open main navigation menu">
@@ -159,13 +152,6 @@
 
         
         
-        <button type="button" id="searchToggleDesktop" class="btn btn-link nav-link p-2 d-none d-lg-block" aria-label="Search website">
-          <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-            <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-            <circle cx="10" cy="10" r="7"></circle>
-            <line x1="21" y1="21" x2="15" y2="15"></line>
-          </svg>
-        </button>
         
         <div class="dropdown mt-1 order-lg-2">
           <button class="btn btn-dropdown dropdown-toggle" id="doks-languages" data-bs-toggle="dropdown" aria-expanded="false" data-bs-display="static">
@@ -225,53 +211,6 @@
     
     </div>
 </header>
-</div>
-
-<div class="modal" id="searchModal" tabindex="-1" aria-labelledby="searchModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-scrollable modal-fullscreen-md-down">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h1 class="modal-title fs-5 visually-hidden" id="searchModalLabel">Pesquisar</h1>
-        <button type="button" class="btn-close visually-hidden" data-bs-dismiss="modal" aria-label="Close"></button>
-        <div class="search-input flex-grow-1 d-none">
-          <form id="search-form" class="search-form" action="#" method="post" accept-charset="UTF-8" role="search">
-            <label for="query" class="visually-hidden">Pesquisar</label>
-            <div class="d-flex">
-              <input type="search" id="query" name="query" class="search-text form-control form-control-lg" placeholder="Pesquisar" aria-label="Pesquisar" maxlength="128" autocomplete="off">
-              <button type="button" class="btn btn-link text-decoration-none px-0 ms-3 d-md-none" data-bs-dismiss="modal" aria-label="Close">Cancel</button>
-            </div>
-          </form>
-        </div>
-      </div>
-      <div class="modal-body">
-        <p class="search-loading status message d-none mt-3 text-center">Loading search index…</p>
-        <p class="search-no-recent message d-none mt-3 text-center">Nenhuma pesquisa recente</p>
-        <p class="search-no-results message d-none mt-3 text-center">Nenhum resultado encontrado for "<strong><span class="query-no-results">Query here</span></strong>"</p>
-        <div id="searchResults" class="search-results"></div>
-        <template>
-          <article class="search-result list-view">
-            <div class="card my-3">
-              <div class="card-body">
-                <header>
-                  <h2 class="h5 title title-submitted mb-0"><a class="stretched-link text-decoration-none text-reset" href="#">Title here</a></h2>
-                  <div class="submitted d-none"><time class="created-date">Date here</time></div>
-                </header>
-                <div class="content">Summary here</div>
-              </div>
-            </div>
-          </article>
-        </template>
-      </div>
-      <div class="modal-footer">
-        <ul class="list-inline me-auto d-none d-md-block">
-          <li class="list-inline-item"><kbd class="me-2"><svg width="15" height="15" aria-label="Enter key" role="img"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"><path d="M12 3.53088v3c0 1-1 2-2 2H4M7 11.53088l-3-3 3-3"></path></g></svg></kbd><span class="DocSearch-Label">to select</span></li>
-          <li class="list-inline-item"><kbd class="me-2"><svg width="15" height="15" aria-label="Arrow down" role="img"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"><path d="M7.5 3.5v8M10.5 8.5l-3 3-3-3"></path></g></svg></kbd><kbd class="me-2"><svg width="15" height="15" aria-label="Arrow up" role="img"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"><path d="M7.5 11.5v-8M10.5 6.5l-3-3-3 3"></path></g></svg></kbd><span class="DocSearch-Label">to navigate</span></li>
-          <li class="list-inline-item"><kbd class="me-2"><svg width="15" height="15" aria-label="Escape key" role="img"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"><path d="M13.6167 8.936c-.1065.3583-.6883.962-1.4875.962-.7993 0-1.653-.9165-1.653-2.1258v-.5678c0-1.2548.7896-2.1016 1.653-2.1016.8634 0 1.3601.4778 1.4875 1.0724M9 6c-.1352-.4735-.7506-.9219-1.46-.8972-.7092.0246-1.344.57-1.344 1.2166s.4198.8812 1.3445.9805C8.465 7.3992 8.968 7.9337 9 8.5c.032.5663-.454 1.398-1.4595 1.398C6.6593 9.898 6 9 5.963 8.4851m-1.4748.5368c-.2635.5941-.8099.876-1.5443.876s-1.7073-.6248-1.7073-2.204v-.4603c0-1.0416.721-2.131 1.7073-2.131.9864 0 1.6425 1.031 1.5443 2.2492h-2.956"></path></g></svg></kbd><span class="DocSearch-Label">to close</span></li>
-        </ul>
-        <p class="d-md-none">Search by <a class="text-decoration-none" href="https://github.com/nextapps-de/flexsearch">FlexSearch</a></p>
-      </div>
-    </div>
-  </div>
 </div>
 
 
@@ -486,7 +425,11 @@
   </div>
 </footer>
 
-    
+    <script async
+  src="https://liiiandru.github.io/newdoc/pt/js/bootstrap.0f3ef9b263999ee6655fcd15c10e0186bd21e164d3ffb0583325dfbea57b8a72.js"
+  integrity="sha256-Dz75smOZnuZlX80VwQ4Bhr0h4WTT/7BYMyXfvqV7inI=">
+</script>
+
 
 <script async
   src="https://liiiandru.github.io/newdoc/pt/js/app.c17553444ec7c62f781ddbaa011948f6d85a1bab49420047d68a2b89852a8b36.js"
@@ -501,14 +444,6 @@
 <p class="text-sm text-center mt-4">
   © 2025 Multiplus Card. Todos os direitos reservados.
 </p>
-<script async
-  src="https://liiiandru.github.io/newdoc/pt/js/flexsearch.pt.df99e8c251fd064404b37842fa5ee793b98952daf8184ba334670be4a94305b5.js"
-  integrity="sha256-35nowlH9BkQEs3hC&#43;l7nk7mJUtr4GEujNGcL5KlDBbU=">
-</script>
-<script async
-  src="https://liiiandru.github.io/newdoc/pt/js/search-modal.fc21c376beaf5a02fd0775d2c74049562bc5adab06cf975b97a7b8ba24c76730.js"
-  integrity="sha256-/CHDdr6vWgL9B3XSx0BJVivFrasGz5dbl6e4uiTHZzA=">
-</script>
 
     <div class="d-inline-flex fixed-bottom-right pb-4 pe-4">
   <button id="toTop" type="button" class="btn btn-primary rounded-circle ms-auto p-2"><span class="visually-hidden">Top</span><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-chevron-up" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M6 15l6 -6l6 6"></path></svg></button>
