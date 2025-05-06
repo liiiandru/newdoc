@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Multiplus Card [DEV]</title>
-    <link>http://localhost:1313/pt/tags/</link>
+    <link>https://liiiandru.github.io/newdoc/pt/tags/</link>
     <description>Recent content in Tags on Multiplus Card [DEV]</description>
     <generator>Hugo</generator>
     <language>pt</language>
     <copyright>Copyright (c) 2025 Multiplus Card</copyright>
-    <atom:link href="http://localhost:1313/pt/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://liiiandru.github.io/newdoc/pt/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,254 +2,254 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://localhost:1313/pt/pt/documentacao/apresentacao/</loc>
+      <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/apresentacao/</loc>
       <lastmod>2023-09-07T16:33:54+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/pt/pt/documentacao/tef/</loc>
+      <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/tef/</loc>
       <lastmod>2023-09-07T16:33:54+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/pt/pt/documentacao/pinpdv/</loc>
+      <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/pinpdv/</loc>
       <lastmod>2023-09-07T16:33:54+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/pt/pt/documentacao/qrmultiplus/</loc>
+      <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/qrmultiplus/</loc>
       <lastmod>2023-09-07T16:33:54+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/pt/pt/documentacao/concilicacao/</loc>
+      <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/concilicacao/</loc>
       <lastmod>2023-09-07T16:33:54+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/pt/pt/documentacao/linkpago/</loc>
+      <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/linkpago/</loc>
       <lastmod>2023-09-07T16:33:54+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/pt/pt/documentacao/transacao/</loc>
+      <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/transacao/</loc>
       <lastmod>2023-09-07T16:33:54+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/pt/pt/documentacao/autenticacao/</loc>
+      <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/autenticacao/</loc>
       <lastmod>2023-09-07T16:33:54+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/tef/dll/transparente/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/tef/dll/transparente/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/tef/dll/comtela/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/tef/dll/comtela/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/tef/tefdial/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/tef/tefdial/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/tef/webservice/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/tef/webservice/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/pinpdv/introducao/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/pinpdv/introducao/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/pinpdv/infocomuns/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/pinpdv/infocomuns/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/pinpdv/produtos/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/pinpdv/produtos/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/pinpdv/prevenda/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/pinpdv/prevenda/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/pinpdv/postef/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/pinpdv/postef/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/pinpdv/vendaexpressa/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/pinpdv/vendaexpressa/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/pinpdv/consultatrn/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/pinpdv/consultatrn/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/pinpdv/adquirentes/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/pinpdv/adquirentes/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/qrmultiplus/introducao/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/qrmultiplus/introducao/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/qrmultiplus/configuracao/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/qrmultiplus/configuracao/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/qrmultiplus/criarcobranca/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/qrmultiplus/criarcobranca/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/qrmultiplus/consultarcobranca/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/qrmultiplus/consultarcobranca/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/qrmultiplus/removercobranca/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/qrmultiplus/removercobranca/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/qrmultiplus/cancelarcobranca/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/qrmultiplus/cancelarcobranca/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/qrmultiplus/psps/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/qrmultiplus/psps/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/concilicacao/introducao/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/concilicacao/introducao/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/concilicacao/autenticacao/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/concilicacao/autenticacao/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/concilicacao/concilicacao/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/concilicacao/concilicacao/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/linkpago/introducao/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/linkpago/introducao/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/linkpago/checkout/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/linkpago/checkout/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/linkpago/checkouttransparente/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/linkpago/checkouttransparente/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/linkpago/manutencao/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/linkpago/manutencao/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/linkpago/obtertrn/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/linkpago/obtertrn/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/linkpago/recorrencia/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/linkpago/recorrencia/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/transacao/indroducao/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/transacao/indroducao/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/transacao/autenticacao/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/transacao/autenticacao/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/transacao/consulta/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/transacao/consulta/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/transacao/transacaopos/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/transacao/transacaopos/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/pt/pt/documentacao/autenticacao/autenticacao/</loc>
+        <loc>https://liiiandru.github.io/newdoc/pt/pt/documentacao/autenticacao/autenticacao/</loc>
         <lastmod>2023-09-07T16:33:54+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
