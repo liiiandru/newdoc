@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multiplus Card [DEV]</title>
+    <link>http://localhost:1313/pt/</link>
+    <description>Recent content on Multiplus Card [DEV]</description>
+    <generator>Hugo</generator>
+    <language>pt</language>
+    <copyright>Copyright (c) 2025 Multiplus Card</copyright>
+    <lastBuildDate>Thu, 07 Sep 2023 16:33:54 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/pt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comece Agora!</title>
+      <link>http://localhost:1313/pt/documentacao/apresentacao/</link>
+      <pubDate>Thu, 07 Sep 2023 16:33:54 +0200</pubDate>
+      <guid>http://localhost:1313/pt/documentacao/apresentacao/</guid>
+      <description>&lt;p&gt;Navegue pelo menu lateral para acessar a documentação específica de cada integração. Caso precise de suporte ou tenha dúvidas, entre em contato com nossa equipe técnica.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Comece Agora!</title>
+      <link>http://localhost:1313/pt/pt/documentacao/apresentacao/</link>
+      <pubDate>Thu, 07 Sep 2023 16:33:54 +0200</pubDate>
+      <guid>http://localhost:1313/pt/pt/documentacao/apresentacao/</guid>
+      <description>&lt;p&gt;Navegue pelo menu lateral para acessar a documentação específica de cada integração. Caso precise de suporte ou tenha dúvidas, entre em contato com nossa equipe técnica.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exemplos de Integração</title>
+      <link>http://localhost:1313/pt/exemplos/apresentacao/</link>
+      <pubDate>Thu, 07 Sep 2023 16:33:54 +0200</pubDate>
+      <guid>http://localhost:1313/pt/exemplos/apresentacao/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Integre com a Multiplus Card de forma rápida e eficiente&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bem-vindo à área de exemplos do &lt;strong&gt;Portal do Desenvolvedor da Multiplus Card&lt;/strong&gt;!&#xA;Este espaço foi criado para facilitar o processo de integração das nossas soluções com os seus sistemas, disponibilizando exemplos práticos e didáticos em diversas linguagens de programação.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exemplos de Integração</title>
+      <link>http://localhost:1313/pt/pt/exemplos/apresentacao/</link>
+      <pubDate>Thu, 07 Sep 2023 16:33:54 +0200</pubDate>
+      <guid>http://localhost:1313/pt/pt/exemplos/apresentacao/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Integre com a Multiplus Card de forma rápida e eficiente&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bem-vindo à área de exemplos do &lt;strong&gt;Portal do Desenvolvedor da Multiplus Card&lt;/strong&gt;!&#xA;Este espaço foi criado para facilitar o processo de integração das nossas soluções com os seus sistemas, disponibilizando exemplos práticos e didáticos em diversas linguagens de programação.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Example Post</title>
+      <link>http://localhost:1313/pt/blog/example-post/</link>
+      <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
+      <guid>http://localhost:1313/pt/blog/example-post/</guid>
+      <description>You can use blog posts for announcing product updates and features.</description>
+    </item>
+    <item>
+      <title>Integração com TEF</title>
+      <link>http://localhost:1313/pt/exemplos/tef/exemplo_tef/</link>
+      <pubDate>Thu, 07 Sep 2023 16:33:54 +0200</pubDate>
+      <guid>http://localhost:1313/pt/exemplos/tef/exemplo_tef/</guid>
+      <description>&lt;p&gt;A seguir, são apresentados exemplos de integração com o TEF da Multiplus Card em diversas linguagens de programação. Estes exemplos têm como finalidade demonstrar o fluxo operacional das soluções, facilitar a realização de testes e servir como base para o desenvolvimento da integração com sistemas de automação comercial.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Integração com TEF</title>
+      <link>http://localhost:1313/pt/pt/exemplos/tef/exemplo_tef/</link>
+      <pubDate>Thu, 07 Sep 2023 16:33:54 +0200</pubDate>
+      <guid>http://localhost:1313/pt/pt/exemplos/tef/exemplo_tef/</guid>
+      <description>&lt;p&gt;A seguir, são apresentados exemplos de integração com o TEF da Multiplus Card em diversas linguagens de programação. Estes exemplos têm como finalidade demonstrar o fluxo operacional das soluções, facilitar a realização de testes e servir como base para o desenvolvimento da integração com sistemas de automação comercial.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introdução</title>
+      <link>http://localhost:1313/pt/documentacao/tef/dll/transparente/introducao/</link>
+      <pubDate>Thu, 07 Sep 2023 16:33:54 +0200</pubDate>
+      <guid>http://localhost:1313/pt/documentacao/tef/dll/transparente/introducao/</guid>
+      <description>&lt;p&gt;A DLL &lt;strong&gt;TefClientMC&lt;/strong&gt; proporciona uma integração flexível, permitindo à automação um alto nível de controle sobre o fluxo da transação e ampla personalização por meio de um processo iterativo. É ideal para automações que buscam preservar sua identidade visual e ter maior controle sobre cada etapa da transação.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introdução</title>
+      <link>http://localhost:1313/pt/pt/documentacao/tef/dll/transparente/introducao/</link>
+      <pubDate>Thu, 07 Sep 2023 16:33:54 +0200</pubDate>
+      <guid>http://localhost:1313/pt/pt/documentacao/tef/dll/transparente/introducao/</guid>
+      <description>&lt;p&gt;A DLL &lt;strong&gt;TefClientMC&lt;/strong&gt; proporciona uma integração flexível, permitindo à automação um alto nível de controle sobre o fluxo da transação e ampla personalização por meio de um processo iterativo. É ideal para automações que buscam preservar sua identidade visual e ter maior controle sobre cada etapa da transação.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Instalação/Configuração</title>
+      <link>http://localhost:1313/pt/documentacao/tef/dll/transparente/configuracao/</link>
+      <pubDate>Thu, 07 Sep 2023 16:33:54 +0200</pubDate>
+      <guid>http://localhost:1313/pt/documentacao/tef/dll/transparente/configuracao/</guid>
+      <description>&lt;p&gt;Esta solução foi desenhada para funcionar no modelo &lt;em&gt;standalone&lt;/em&gt;, ou seja, todos os componentes requeridos devem estar instalados no mesmo dispositivo (disco C:\). As funções TEF somente podem ser executadas através de um equipamento que possua o Pinpad, conexão de banda larga e a solução instalada.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
