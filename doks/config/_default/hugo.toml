@@ -1,5 +1,5 @@
 title = "Multiplus Card [DEV]"
-baseurl = "http://localhost/"
+baseurl = "https://liiiandru.github.io/newdoc/" #"http://localhost/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
