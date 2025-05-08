@@ -63,6 +63,7 @@ Quando executada corretamente a função retorna 0, e o fluxo deve continuar; ca
 |       47 | Não Foi encontrada a localização da DLL                              |
 |       48 | Não houve confirmação da conclusão da execução do ClientD            |
 |       49 | Número de parcelas inválido                                          |
+|       50 | ClientM.exe em processo de inicialização                             |
 |       52 | Código de operação inválido para a função                            |
 
 #### Códigos de Operação
