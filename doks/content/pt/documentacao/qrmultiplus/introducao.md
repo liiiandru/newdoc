@@ -2,8 +2,8 @@
 title: "Introdução"
 description: ""
 lead: "Congrats on setting up a new Doks project!"
-date: 2023-09-07T16:33:54+02:00
-lastmod: 2023-09-07T16:33:54+02:00
+date: 2025-05-08T08:54:32-03:00
+lastmod: 2025-05-08T08:54:32-03:00
 draft: false
 weight: 601
 seo:

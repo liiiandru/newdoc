@@ -2,8 +2,8 @@
 title: "Primeiros Passos"
 description: ""
 lead: ""
-date: 2025-05-07T11:33:54-03:00
-lastmod: 2025-05-07T11:33:54-03:00
+date: 2025-05-08T08:54:32-03:00
+lastmod: 2025-05-08T08:54:32-03:00
 draft: false
 weight: 81
 sidebar:

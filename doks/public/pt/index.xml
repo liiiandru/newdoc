@@ -7,33 +7,33 @@
     <generator>Hugo</generator>
     <language>pt</language>
     <copyright>Copyright (c) 2025 Multiplus Card</copyright>
-    <lastBuildDate>Wed, 07 May 2025 11:33:54 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 08:54:32 -0300</lastBuildDate>
     <atom:link href="https://liiiandru.github.io/newdoc/pt/pt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comece Agora!</title>
       <link>https://liiiandru.github.io/newdoc/pt/pt/documentacao/apresentacao/</link>
-      <pubDate>Thu, 07 Sep 2023 16:33:54 +0200</pubDate>
+      <pubDate>Thu, 08 May 2025 08:54:32 -0300</pubDate>
       <guid>https://liiiandru.github.io/newdoc/pt/pt/documentacao/apresentacao/</guid>
       <description>&lt;p&gt;Navegue pelo menu lateral para acessar a documentação específica de cada integração. Caso precise de suporte ou tenha dúvidas, entre em contato com nossa equipe técnica.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comece Agora!</title>
       <link>https://liiiandru.github.io/newdoc/pt/pt/pt/documentacao/apresentacao/</link>
-      <pubDate>Thu, 07 Sep 2023 16:33:54 +0200</pubDate>
+      <pubDate>Thu, 08 May 2025 08:54:32 -0300</pubDate>
       <guid>https://liiiandru.github.io/newdoc/pt/pt/pt/documentacao/apresentacao/</guid>
       <description>&lt;p&gt;Navegue pelo menu lateral para acessar a documentação específica de cada integração. Caso precise de suporte ou tenha dúvidas, entre em contato com nossa equipe técnica.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exemplos de Integração</title>
       <link>https://liiiandru.github.io/newdoc/pt/pt/exemplos/apresentacao/</link>
-      <pubDate>Thu, 07 Sep 2023 16:33:54 +0200</pubDate>
+      <pubDate>Thu, 08 May 2025 08:54:32 -0300</pubDate>
       <guid>https://liiiandru.github.io/newdoc/pt/pt/exemplos/apresentacao/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Integre com a Multiplus Card de forma rápida e eficiente&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bem-vindo à área de exemplos do &lt;strong&gt;Portal do Desenvolvedor da Multiplus Card&lt;/strong&gt;!&#xA;Este espaço foi criado para facilitar o processo de integração das nossas soluções com os seus sistemas, disponibilizando exemplos práticos e didáticos em diversas linguagens de programação.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exemplos de Integração</title>
       <link>https://liiiandru.github.io/newdoc/pt/pt/pt/exemplos/apresentacao/</link>
-      <pubDate>Thu, 07 Sep 2023 16:33:54 +0200</pubDate>
+      <pubDate>Thu, 08 May 2025 08:54:32 -0300</pubDate>
       <guid>https://liiiandru.github.io/newdoc/pt/pt/pt/exemplos/apresentacao/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Integre com a Multiplus Card de forma rápida e eficiente&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bem-vindo à área de exemplos do &lt;strong&gt;Portal do Desenvolvedor da Multiplus Card&lt;/strong&gt;!&#xA;Este espaço foi criado para facilitar o processo de integração das nossas soluções com os seus sistemas, disponibilizando exemplos práticos e didáticos em diversas linguagens de programação.&lt;/p&gt;</description>
     </item>
@@ -47,14 +47,14 @@
     <item>
       <title>Primeiros Passos</title>
       <link>https://liiiandru.github.io/newdoc/pt/pt/documentacao/guiainicial/primeirospassos/</link>
-      <pubDate>Wed, 07 May 2025 11:33:54 -0300</pubDate>
+      <pubDate>Thu, 08 May 2025 08:54:32 -0300</pubDate>
       <guid>https://liiiandru.github.io/newdoc/pt/pt/documentacao/guiainicial/primeirospassos/</guid>
       <description>&lt;p&gt;A Multiplus Card oferece diversas soluções de pagamento, como TEF, Pix (QRMultiplus), Gateway de Pagamento (Link Pago), App PinPDV Lite, entre outras. Cada uma dessas soluções pode ser integrada de diferentes maneiras. Por exemplo, no caso do TEF, há quatro opções distintas de integração: DLL TefClientMC Modo Interativo, DLL TefClientMC Modo Client, Troca de Arquivos e Webservice. Por isso, antes de iniciar o processo de integração, recomendamos que você consulte nossos times de Integração e Comercial para identificar a solução que melhor atende às necessidades de sua automação.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Primeiros Passos</title>
       <link>https://liiiandru.github.io/newdoc/pt/pt/pt/documentacao/guiainicial/primeirospassos/</link>
-      <pubDate>Wed, 07 May 2025 11:33:54 -0300</pubDate>
+      <pubDate>Thu, 08 May 2025 08:54:32 -0300</pubDate>
       <guid>https://liiiandru.github.io/newdoc/pt/pt/pt/documentacao/guiainicial/primeirospassos/</guid>
       <description>&lt;p&gt;A Multiplus Card oferece diversas soluções de pagamento, como TEF, Pix (QRMultiplus), Gateway de Pagamento (Link Pago), App PinPDV Lite, entre outras. Cada uma dessas soluções pode ser integrada de diferentes maneiras. Por exemplo, no caso do TEF, há quatro opções distintas de integração: DLL TefClientMC Modo Interativo, DLL TefClientMC Modo Client, Troca de Arquivos e Webservice. Por isso, antes de iniciar o processo de integração, recomendamos que você consulte nossos times de Integração e Comercial para identificar a solução que melhor atende às necessidades de sua automação.&lt;/p&gt;</description>
     </item>
@@ -75,7 +75,7 @@
     <item>
       <title>Introdução</title>
       <link>https://liiiandru.github.io/newdoc/pt/pt/documentacao/tef/dll/transparente/introducao/</link>
-      <pubDate>Thu, 07 Sep 2023 16:33:54 +0200</pubDate>
+      <pubDate>Thu, 08 May 2025 08:54:32 -0300</pubDate>
       <guid>https://liiiandru.github.io/newdoc/pt/pt/documentacao/tef/dll/transparente/introducao/</guid>
       <description>&lt;p&gt;A DLL &lt;strong&gt;TefClientMC&lt;/strong&gt; proporciona uma integração flexível, permitindo à automação um alto nível de controle sobre o fluxo da transação e ampla personalização por meio de um processo iterativo. É ideal para automações que buscam preservar sua identidade visual e ter maior controle sobre cada etapa da transação.&lt;/p&gt;</description>
     </item>
